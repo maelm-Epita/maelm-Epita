@@ -6,7 +6,7 @@ I'm a third year student at EPITA.
 
 Currently looking for a junior developper internship
 
-## My github profile 👤
+## My github profile 👈
 I use this profile to post my personal and school projects.
 
-Detailed READMEs can be found in each repository giving a summary of the project, build instructions and explaining the stack
+Detailed READMEs can be found in each repository giving a summary of the project, build instructions and explaining the technical stack
