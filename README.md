@@ -10,18 +10,3 @@ Currently looking for a junior developper internship
 I use this profile to post my personal and school projects.
 
 Detailed READMEs can be found in each repository giving a summary of the project, build instructions and explaining the stack
-
-## Languages ⌨️
-- C
-- C++
-- Java
-- Python
-- Javascript
-- HTML
-- CSS
-- Bash
-  
-## Tools 🔨
-- Postgresql
-- Linux
-- Make
