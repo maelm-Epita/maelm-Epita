@@ -4,7 +4,7 @@
 ## About me 🍃
 I'm a third year student at EPITA.
 
-Currently looking for a junior developper internship
+Currently looking for a junior developer internship
 
 ## My github profile 👈
 I use this profile to post my personal and school projects.
